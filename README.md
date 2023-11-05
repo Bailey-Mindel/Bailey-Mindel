@@ -8,5 +8,8 @@ Sufficient knowledge in Excel, SQL and Tableau I've learned from googles data an
 I currently work at a tree nursery full-time to make ends meet, but I want a job that can further my career as a data analyst and refine my skills, as I am still new to data analytics. 
 
 Best way to reach me is throught email; @baileymindel@gmail.com
+I'm also on tableau: https://public.tableau.com/app/profile/bailey.mindel/vizzes
+and linkedin: www.linkedin.com/in/bailey-mindel
 
 I am taking all sorts of criticism across any platform I am on. all comments will be appreciated, I am trying to make the best impression I can in the community of data and for furture employers.
+
